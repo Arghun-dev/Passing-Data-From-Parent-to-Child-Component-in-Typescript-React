@@ -1,0 +1,1 @@
+# Passing-Data-From-Parent-to-Child-Component-in-Typescript-React
